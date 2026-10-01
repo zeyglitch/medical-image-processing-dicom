@@ -1,0 +1,6 @@
+data/
+*.dcm
+cell.png
+moliets.png
+.ipynb_checkpoints/
+__pycache__/
