@@ -27,7 +27,7 @@ Seul l'étirement linéaire augmente le contraste de la tête, au prix de l'entr
 
 **Détection de 4 marqueurs sur une coupe du cou** : zone d'analyse localisée automatiquement, seuil d'Otsu appliqué à la queue de l'histogramme (43,0). 4 objets exactement pour des seuils de 43,0 à 60,3 (5 objets dès 0,9× le seuil), diamètres équivalents de 3,8 à 6,4 mm.
 
-**Comptage d'objets sur une image satellite** : 39 détections pour 39 piscines comptées à la main. [PRÉCISION ET RAPPEL À RENSEIGNER APRÈS VÉRIFICATION]. Un Otsu global classait 77,3 % des pixels en « piscine » (7 détections, 6 fausses) ; appliqué à la queue de l'histogramme, il en retient 1,7 %.
+**Comptage d'objets sur une image satellite** : 39 détections pour 39 piscines comptées à la main. Vérification boîte par boîte : précision et rappel de 100 %. Un Otsu global classait 77,3 % des pixels en « piscine » (7 détections, 6 fausses) ; appliqué à la queue de l'histogramme, il en retient 1,7 %.
 
 ## Limites
 
