@@ -1,6 +1,6 @@
 # Traitement d'images médicales : analyse d'IRM au format DICOM
 
-Projet réalisé dans le cadre du cours de traitement d'images médicales (ISIS Castres, 2025).
+Projet réalisé dans le cadre du cours de traitement d'images médicales (ISIS Castres, 2025-2026).
 
 ## Ce que montre ce projet
 
@@ -42,7 +42,7 @@ Python · pydicom · scikit-image · NumPy · SciPy · pandas · Matplotlib
 
 ## Reproduire
 
-Les données ne sont pas versionnées : les IRM proviennent du dépôt public [datalad/example-dicom-structural](https://github.com/datalad/example-dicom-structural) (vérifier sa licence avant toute redistribution) ; `cell.png` et `moliets.png` ont été fournies avec le cours. Placer les fichiers dans `./data` (ou adapter `DATA_DIR`, première cellule), puis :
+Les données ne sont pas versionnées : les IRM proviennent du dépôt public [datalad/example-dicom-structural](https://github.com/datalad/example-dicom-structural) (Ces fichiers ne sont pas redistribués ici ; voir la licence du dépôt d'origine) ; `cell.png` et `moliets.png` ont été fournies avec le cours. Placer les fichiers dans `./data` (ou adapter `DATA_DIR`, première cellule), puis :
 
 ```bash
 pip install -r requirements.txt
