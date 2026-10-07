@@ -43,7 +43,7 @@ Python · pydicom · scikit-image · NumPy · SciPy · pandas · Matplotlib
 
 ## Reproduire
 
-Les données ne sont pas versionnées : les IRM proviennent du dépôt public [datalad/example-dicom-structural](https://github.com/datalad/example-dicom-structural) (Ces fichiers ne sont pas redistribués ici ; voir la licence du dépôt d'origine) ; `cell.png` et `moliets.png` ont été fournies avec le cours. Placer les fichiers dans `./data` (ou adapter `DATA_DIR`, première cellule), puis :
+Les données ne sont pas versionnées : les IRM proviennent du dépôt public [datalad/example-dicom-structural](https://github.com/datalad/example-dicom-structural) (jeu anonymisé ; voir la licence de ce dépôt). Elles ne sont pas redistribuées ici ; `cell.png` et `moliets.png` ont été fournies avec le cours. Placer les fichiers dans `./data` (ou adapter `DATA_DIR`, première cellule), puis :
 
 ```bash
 pip install -r requirements.txt
