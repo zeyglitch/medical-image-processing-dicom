@@ -51,6 +51,8 @@ pip install -r requirements.txt
 
 Le notebook détecte automatiquement s'il tourne sous Google Colab ou en local.
 
+Les sorties du notebook contiennent des figures issues de ces données, pour permettre de voir les résultats sans les rejouer.
+
 ## Auteur
 
 **Mathieu Jonniaux** — ISIS Castres (partenaire INSA), FIE4 DSIA
